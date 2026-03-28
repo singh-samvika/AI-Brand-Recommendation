@@ -1,7 +1,6 @@
 # 🚀 AI-Powered Hybrid Brand Recommendation System
 
 A production-style recommendation engine that combines **LLM reasoning + vector search** to simulate a **hybrid recommendation system inspired by LightFM** (collaborative + content-based filtering).
-
 This project demonstrates how modern AI systems can replace traditional ML pipelines using **semantic retrieval and LLM-based reasoning**.
 ---
 
