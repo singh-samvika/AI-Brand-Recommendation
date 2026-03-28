@@ -23,7 +23,7 @@ Instead of training a traditional model, it leverages:
 
 ## ⚙️ Architecture
 
-
+```
 User Query
     ↓
 Embedding Generation (OpenAI)
@@ -35,7 +35,7 @@ Candidate Retrieval
 LLM Hybrid Scoring (LightFM-inspired reasoning)
     ↓
 Ranked Recommendations (JSON)
-
+```
 
 ---
 
